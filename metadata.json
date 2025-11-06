@@ -1,0 +1,5 @@
+{
+  "name": "Tony's Data Dashboard",
+  "description": "An interactive dashboard for Tony that displays complex data sets in real-time using React and Recharts, featuring AI-powered data analysis with the Gemini API.",
+  "requestFramePermissions": []
+}
